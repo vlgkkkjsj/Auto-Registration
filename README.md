@@ -1,0 +1,2 @@
+# AutoClick-PY
+py autoclick
